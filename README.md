@@ -2,11 +2,11 @@
 
 ## Just a simple markdown file that shows I can somewhat use it _effectively_.
 
-There really is not much to put ither than a link to my [amazing first markdown page](https://github.com/MangoCannon/For-Class/blob/main/MrTankyTank.md).
+There really is not much to put here other than a link to my [amazing first markdown page](https://github.com/MangoCannon/For-Class/blob/main/MrTankyTank.md).
 Once you look through that you will _definitely_ want to learn more about the amazing **M1A2** and other M1 Abrams variants.
 I think I have used all the basic syntax _except code_
 1. Headings
-2. **Blod**
+2. Not a rock but a **Boulder**
 3. *Curvy text*
 4. >Block quote
     >> Block quotes
